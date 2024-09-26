@@ -1,5 +1,5 @@
 ```mermaid
-flowchart TD
+flowchart LR
  Start([Start]) --> U(User input)
  U -->R(Random num generator)
  R -->O(Output)
